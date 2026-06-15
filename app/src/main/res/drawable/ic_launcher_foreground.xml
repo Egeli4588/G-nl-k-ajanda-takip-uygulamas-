@@ -1,0 +1,53 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center shadow layer -->
+    <path
+        android:fillColor="#151C339E"
+        android:pathData="M30,34 h48 a6,6 0 0 1 6,6 v42 a6,6 0 0 1 -6,6 h-48 a6,6 0 0 1 -6,-6 v-42 a6,6 0 0 1 6,-6 z" />
+    <!-- Calendar card body base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,30 h52 a6,6 0 0 1 6,6 v42 a6,6 0 0 1 -6,6 h-52 a6,6 0 0 1 -6,-6 v-42 a6,6 0 0 1 6,-6 z" />
+    <!-- Calendar Header (Red Banner) -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M28,30 h52 a6,6 0 0 1 6,6 v8 h-64 v-8 a6,6 0 0 1 6,-6 z" />
+    <!-- Spiral binder loops -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M36,22 a3,3 0 0 1 3,3 v10 a3,3 0 0 1 -3,3 h0 a3,3 0 0 1 -3,-3 v-10 a3,3 0 0 1 3,-3 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,20 a3,3 0 0 1 3,3 v10 a3,3 0 0 1 -3,3 h0 a3,3 0 0 1 -3,-3 v-10 a3,3 0 0 1 3,-3 z" />
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M72,22 a3,3 0 0 1 3,3 v10 a3,3 0 0 1 -3,3 h0 a3,3 0 0 1 -3,-3 v-10 a3,3 0 0 1 3,-3 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72,20 a3,3 0 0 1 3,3 v10 a3,3 0 0 1 -3,3 h0 a3,3 0 0 1 -3,-3 v-10 a3,3 0 0 1 3,-3 z" />
+    <!-- Task items Representation (Grid of rows) -->
+    <!-- Row 1: Bullet and Line -->
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M34,51 a2.5,2.5 0 1 1 -2.5,-2.5 a2.5,2.5 0 0 1 2.5,2.5 z" />
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M38,49 h34 v4 h-34 z" />
+    <!-- Row 2: Bullet and Line -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M34,61 a2.5,2.5 0 1 1 -2.5,-2.5 a2.5,2.5 0 0 1 2.5,2.5 z" />
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M38,59 h24 v4 h-24 z" />
+    <!-- Row 3: Bullet and Line -->
+    <path
+        android:fillColor="#FB8C00"
+        android:pathData="M34,71 a2.5,2.5 0 1 1 -2.5,-2.5 a2.5,2.5 0 0 1 2.5,2.5 z" />
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M38,69 h30 v4 h-30 z" />
+</vector>

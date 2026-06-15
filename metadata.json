@@ -1,0 +1,6 @@
+{
+  "name": "Takvimli Görevler",
+  "description": "Takvim odaklı şık ve modern bir görev yönetim uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
